@@ -4,7 +4,7 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>B:/visual studio projects/TheLadder/TheLadder/Content/ball.png</File>
+    <File>C:/Users/Brandon/Documents/Visual Studio 2022/TheLadder/TheLadder/Content/ball.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
